@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../maxwell"
+		},
+		{
+			"path": "../../../../xampp/htdocs/kabub2b"
+		},
+		{
+			"path": "../../../../xampp/htdocs/Kabarak_B2B"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kabub2b"
+	}
+}
